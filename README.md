@@ -120,6 +120,17 @@ npm run dev
 
 The frontend will normally run on: http://localhost:5173
 
+## Future Improvements
+
+- Role-based access for employees and support agents
+- Secure password hashing
+- JWT-based authentication
+- Dynamic employee/agent management
+- Email notifications
+- Search and filtering
+- Ticket comments and attachments
+- Production deployment
+
 ## Author
 
 Vineet Kashyap  
