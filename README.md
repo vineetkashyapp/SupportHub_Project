@@ -70,12 +70,14 @@ SupportHub_Project/
 ├── .gitignore
 └── README.md
 ```
-
 ## How to Run the Project
 
-### 1. Clone the repository
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/vineetkashyapp/SupportHub_Project.git
 cd SupportHub_Project
+```
 
 ### 2. Set up the MySQL database
 CREATE DATABASE supporthub;
@@ -122,5 +124,5 @@ Vineet Kashyap
 
 B.Tech – Information Technology
 Narula Institute of Technology
-GitHub: 
-LinkdIn: 
+GitHub: https://github.com/vineetkashyapp
+LinkdIn: https://www.linkedin.com/in/vineet-kashyap-6481b7292/?isSelfProfile=true
