@@ -18,6 +18,21 @@ The project consists of a React.js frontend and a Java Spring Boot backend conne
 - REST API-based backend
 - Persistent data storage using MySQL
 
+## Screenshots  
+### Login Page
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/112f07a4-3e78-4d17-a7dd-a9eae9784201" />
+
+### Dashboard
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/63089318-9fbe-4a35-aaf8-72e7fa6e0a3a" />
+
+### Create Ticket
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/a5a4a7db-019b-41bf-b659-8e6437e8ea97" />
+
+### My Tickets
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/a794093d-42af-413b-99cd-8b25829284cc" />
+
+
+
 ## Technologies Used
 
 ### Frontend
