@@ -80,49 +80,51 @@ cd SupportHub_Project
 ```
 
 ### 2. Set up the MySQL database
+```bash
 CREATE DATABASE supporthub;
+```
 
 ### 3. Run the Backend
+```bash
 cd supporthub
+```
 
 Set your MySQL password:
+```bash
 $env:DB_PASSWORD="your_mysql_password"
+```
 
 Start the Spring Boot application:
+```bash
 .\mvnw spring-boot:run
+```
 
 The backend will run on: http://localhost:8080
 
 ### 4. Run the Frontend
 
 Open another terminal:
+```bash
 cd supporthub-frontend
+```
 
 Install dependencies:
+```bash
 npm install
+```
 
 Start the React development server:
+```bash
 npm run dev
+```
 
 The frontend will normally run on: http://localhost:5173
 
-## Future Improvements
-Possible future enhancements include:
-
-Role-based access for employees and support agents
-Secure password hashing
-JWT-based authentication
-Dynamic employee/agent management
-Email notifications
-Search and filtering
-Ticket comments and attachments
-Production deployment
-
 ## Author
 
-Vineet Kashyap
+Vineet Kashyap  
 
-B.Tech – Information Technology
-Narula Institute of Technology
-GitHub: https://github.com/vineetkashyapp
-LinkdIn: https://www.linkedin.com/in/vineet-kashyap-6481b7292/?isSelfProfile=true
+B.Tech – Information Technology  
+Narula Institute of Technology  
+GitHub: https://github.com/vineetkashyapp  
+LinkdIn: https://www.linkedin.com/in/vineet-kashyap-6481b7292/?isSelfProfile=true  
