@@ -69,19 +69,18 @@ SupportHub_Project/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## How to Run the Project
 
-1. Clone the repository
-
+### 1. Clone the repository
 git clone https://github.com/vineetkashyapp/SupportHub_Project.git
 cd SupportHub_Project
 
-2. Set up the MySQL database
-
+### 2. Set up the MySQL database
 CREATE DATABASE supporthub;
 
-3. Run the Backend
+### 3. Run the Backend
 cd supporthub
 
 Set your MySQL password:
@@ -92,7 +91,7 @@ Start the Spring Boot application:
 
 The backend will run on: http://localhost:8080
 
-4. Run the Frontend
+### 4. Run the Frontend
 
 Open another terminal:
 cd supporthub-frontend
@@ -117,7 +116,7 @@ Search and filtering
 Ticket comments and attachments
 Production deployment
 
-Author
+## Author
 
 Vineet Kashyap
 
