@@ -1,0 +1,19 @@
+# Java / Spring Boot
+supporthub/target/
+supporthub/.idea/
+supporthub/*.iml
+
+# React / Node
+supporthub-frontend/node_modules/
+supporthub-frontend/dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
